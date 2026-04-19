@@ -3,9 +3,9 @@ A web-based solution developed to assist Chartered Accountant firms in managing 
 
 The system is built using:
 
-Python (Flask) for backend development
-MySQL for database management
-HTML, CSS, JavaScript for the frontend interface
-Jinja2 templating for dynamic rendering
+- Python (Flask) for backend development
+- MySQL for database management
+- HTML, CSS, JavaScript for the frontend interface
+- Jinja2 templating for dynamic rendering
 
 It provides a structured and scalable approach to handling compliance operations while reducing manual errors and improving efficiency.
