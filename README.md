@@ -1,5 +1,5 @@
-# Client-and-Compliance-management-system
-CA Compliance and Management System is a web-based solution developed to assist Chartered Accountant firms in managing client compliance, tracking deadlines, and handling regulatory filings efficiently. The platform enables centralized client management, task monitoring, and status tracking to ensure timely compliance and improved workflow.
+# CA Compliance and Management System
+A web-based solution developed to assist Chartered Accountant firms in managing client compliance, tracking deadlines, and handling regulatory filings efficiently. The platform enables centralized client management, task monitoring, and status tracking to ensure timely compliance and improved workflow.
 
 The system is built using:
 
